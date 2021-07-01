@@ -1,4 +1,4 @@
-# Strogonoff de Frango :computer:
+# Strogonoff de Frango
 
 ### Ingredientes
 
